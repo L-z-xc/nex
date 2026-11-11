@@ -74,11 +74,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kingcharleslzy-ai/dsh-purge.git"
+    "url": "git+https://github.com/L-z-xc/nex.git",
+    "directory": "dsh-purge-community"
   },
-  "homepage": "https://github.com/kingcharleslzy-ai/dsh-purge#readme",
+  "homepage": "https://github.com/L-z-xc/nex/tree/main/dsh-purge-community#readme",
   "bugs": {
-    "url": "https://github.com/kingcharleslzy-ai/dsh-purge/issues"
+    "url": "https://github.com/L-z-xc/nex/issues"
   },
   "dsh": {
     "bundle": {
@@ -97,8 +98,8 @@
     },
     "install": {
       "preferred": "tarball",
-      "tarball": "https://github.com/kingcharleslzy-ai/dsh-purge/releases/latest/download/dsh-purge-community-1.6.84.tgz",
-      "git": "https://github.com/kingcharleslzy-ai/dsh-purge.git"
+      "tarball": "https://github.com/L-z-xc/nex/releases/download/v1.6.84/dsh-purge-community-1.6.84.tgz",
+      "git": "https://github.com/L-z-xc/nex.git"
     },
     "compatibility": {
       "dsh": ">=0.2.1-rc.1 <0.3.0",
