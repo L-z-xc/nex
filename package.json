@@ -57,11 +57,10 @@
                      "agent"
                  ],
     "repository":  {
-                       "url":  "git+https://github.com/L-z-xc/nex.git",
-                       "directory":  "dsh-purge-1.1.92",
-                       "type":  "git"
+                       "type":  "git",
+                       "url":  "git+https://github.com/L-z-xc/nex.git"
                    },
-    "homepage":  "https://github.com/L-z-xc/nex/tree/main/dsh-purge-1.1.92#readme",
+    "homepage":  "https://github.com/L-z-xc/nex#readme",
     "bugs":  {
                  "url":  "https://github.com/L-z-xc/nex/issues"
              },
@@ -82,8 +81,7 @@
                            },
                 "install":  {
                                 "preferred":  "tarball",
-                                "tarball":  "https://github.com/L-z-xc/nex/releases/download/v1.1.92/dsh-purge-1.1.92.tgz",
-                                "zip":  "https://codeload.github.com/HunYiSage/dsh-purge/zip/refs/heads/master",
+                                "tarball":  "https://raw.githubusercontent.com/L-z-xc/nex/main/dsh-purge-1.1.92.tgz",
                                 "git":  "https://github.com/L-z-xc/nex.git"
                             }
             },
